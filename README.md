@@ -1,7 +1,7 @@
 Project Template: Golang + MySQL + MQTT + Bootstrap
 ===================================================
 
-📁 project-root/
+📁 project-root/ 
 ├── backend/
 │   ├── main.go
 │   ├── mqtt_client.go
