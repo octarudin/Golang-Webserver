@@ -11,10 +11,10 @@ Project Structure: Golang + MySQL + MQTT + Bootstrap
 ├── go.mod  
 └── README.md  
   
---------------------------------------------------
-7. Jalankan
---------------------------------------------------
-go mod tidy
-go run ./backend/
-
+--------------------------------------------------  
+7. Jalankan  
+--------------------------------------------------  
+go mod tidy  
+go run ./backend/  
+  
 Lalu akses: http://localhost:8080
